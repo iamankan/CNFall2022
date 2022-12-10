@@ -6,7 +6,7 @@ python -m venve <name_of_environment>
 ```
 - Then actiavte it:
 ```shell
-<name_of_environment>/Scriots/activate.bat (in Windows)
+<name_of_environment>/Scripts/activate.bat (in Windows)
 ```
 - Then install packages:
 ```shell
