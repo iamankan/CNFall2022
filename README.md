@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ```
 - Then run the program:
 ```shell
-python erby.py
+python erba.py
 ```
